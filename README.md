@@ -1,6 +1,6 @@
 # Dockerized Full Stack Application
 
-Dockerized Full Stack Application using Spring boot, React, Redux, Material-ui, PostgreSQL and Docker.
+Dockerized Full Stack Application using Spring boot, React, Redux, Material-ui, PostgreSQL and Docker - Final.
 
 ## Getting Started
 
